@@ -1389,7 +1389,7 @@
 #X text 4 7 https://m-onz.net;
 #X text 160 -149 load in a break rfom ./sounds/breaks;
 #X text 719 -111 open GEM window;
-#N canvas 868 145 716 657 chords 0;
+#N canvas 467 193 716 657 chords 0;
 #X obj 88 262 until;
 #X obj 88 344 list store;
 #X obj 119 233 t b b l;
